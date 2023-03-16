@@ -8,5 +8,18 @@ namespace PracticaCV_FranciscoBA
 {
     internal class Clase_FranciscoBA1
     {
+        // CONSTANTES PRIVADAS/PUBLICAS
+
+        // MIEMBROS PRIVADOS
+
+        // CONSTRUCTORES 
+
+        // PROPIEDADES
+
+        // METODOS PRIVADOS 
+
+        // METODOS PUBLICOS
+
+
     }
 }
